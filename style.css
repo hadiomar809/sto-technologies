@@ -695,8 +695,9 @@ footer {
     }
 
     .product {
-        width: min(100%, 350px);
-    }
+    width: 90%;
+    max-width: 350px;
+}
 
     #why-us,
     #about,
